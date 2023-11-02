@@ -2,7 +2,7 @@
 
 Bu repo, [Huntress CTF Yarışması](https://huntress.ctf.games/scoreboard) sorularının writeup'larını içerir. Aşağıda, her CTF yarışması için bağlantıları ve kısa açıklamaları bulabilirsiniz.
 
-## Warmup
+## Warmups
 
 ### [CTF Yarışması 1](/2023/CTF1/README.md)
 - Bu yarışmada "Sorun Adı 1" sorusunun çözümü.
