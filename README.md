@@ -1,6 +1,6 @@
 # Huntress2023-Writeups
 
-Bu repo, [Huntress CTF Yarışması](https://huntress.ctf.games/scoreboard) sorularının writeup'larını içerir. Aşağıda, her CTF yarışması için bağlantıları ve kısa açıklamaları bulabilirsiniz.
+Bu repo, [Huntress CTF Yarışması](https://huntress.ctf.games/scoreboard) sorularının writeup'larını içerir. Aşağıda, her soru için writeup'ları bulabilirsiniz.
 
 ## Warmups
 
@@ -32,4 +32,4 @@ Bu repo, [Huntress CTF Yarışması](https://huntress.ctf.games/scoreboard) soru
 
 ## Diğer Ressourcelar
 
-- [Huntress CTF 23](https://huntress.ctf.games/challenges): CTF Yarışmasının orjinal linki. Sizde siteye giriş yapıp soruları çözebilirsiniz.
+- [Huntress CTF 23](https://huntress.ctf.games/challenges): CTF Yarışmasının linki. Sizde siteye giriş yapıp soruları çözebilirsiniz.
