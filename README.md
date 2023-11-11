@@ -6,7 +6,7 @@ Bu repo, [Huntress CTF Yarışması](https://huntress.ctf.games/scoreboard) soru
 
 [Baking](/Depo/Warmups/Baking/) | [BaseFFFF+1](/Depo/Warmups/BaseFFFF%2B1/) | [Book_By_Its_Cover](/Depo/Warmups/Book_By_Its_Cover/) | [CeaserMirror](/Depo/Warmups/CeaserMirror/) |
 [Chicken_Wings](/Depo/Warmups/Chicken_Wings/) | [Dialtone](/Depo/Warmups/Dialtone/) | [F12](/Depo/Warmups/F12/) | [Layered_Security](/Depo/Warmups/Layered_Security/) |
-[Notepad](/Depo/Warmups/Notepad/) | [Query_code](/Depo/Warmups/Query_code/) | [String_cheese](/Depo/Warmups/String_cheese/) | [Comprezz](/Depo/Warmups/comprezz/)
+[Notepad](/Depo/Warmups/Notepad/) | [Query_code](/Depo/Warmups/Query_code/) | [String_cheese](/Depo/Warmups/String_cheese/) | [Comprezz](/Depo/Warmups/comprezz/) |
 
 
 
