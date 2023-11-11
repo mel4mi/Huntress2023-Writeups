@@ -10,41 +10,26 @@ Bu repo, [Huntress CTF Yarışması](https://huntress.ctf.games/scoreboard) soru
 
 
 
-## Misc
+## Forensic
 
-### [CTF Yarışması 1](/2022/CTF1/README.md)
-- Bu yarışmada "Sorun Adı 1" sorusunun çözümü.
-- Bu yarışmada "Sorun Adı 2" sorusunun çözümü.
-
-### [CTF Yarışması 2](/2022/CTF2/README.md)
-- Bu yarışmada "Sorun Adı 1" sorusunun çözümü.
-- Bu yarışmada "Sorun Adı 2" sorusunun çözümü.
+[Texas Chainsaw Massacre: Tokyo Drift]() | [Opposable Thumbs](https://github.com/mel4mi/Huntress2023-Writeups/tree/main/Depo/Forensics/Opposable_Thumbs) | [Dumpster Fire](https://github.com/mel4mi/Huntress2023-Writeups/tree/main/Depo/Forensics/Dumpster_Fire) | [Wimble](https://github.com/mel4mi/Huntress2023-Writeups/tree/main/Depo/Forensics/Wimble) | [Traffic](https://github.com/mel4mi/Huntress2023-Writeups/tree/main/Depo/Forensics/Traffic) | [Tragedy Redux](https://github.com/mel4mi/Huntress2023-Writeups/tree/main/Depo/Forensics/Tragedy_Redux) | [Rogue Inbox](https://github.com/mel4mi/Huntress2023-Writeups/tree/main/Depo/Forensics/Rogue_Inbox) | [Backdoored Splunk](https://github.com/mel4mi/Huntress2023-Writeups/tree/main/Depo/Forensics/Backdoored_Splunk) | [Bad Memory](https://github.com/mel4mi/Huntress2023-Writeups/tree/main/Depo/Forensics/Bad_Memory) |
 
 ## Malware
 
-### [CTF Yarışması 1](/2021/CTF1/README.md)
-- Bu yarışmada "Sorun Adı 1" sorusunun çözümü.
-- Bu yarışmada "Sorun Adı 2" sorusunun çözümü.
+[Batchfuscation #]() | [Snake Eater II #]() | [BlackCat II #]() | [Crab Rave #]() | [VeeBeeEee](https://github.com/mel4mi/Huntress2023-Writeups/tree/main/Depo/Malware/VeeBeeEee) | [HumanTwo](https://github.com/mel4mi/Huntress2023-Writeups/tree/main/Depo/Malware/Human_Two) | [Snake Eater](https://github.com/mel4mi/Huntress2023-Writeups/tree/main/Depo/Malware/Snake_Eater) | [BlackCat](https://github.com/mel4mi/Huntress2023-Writeups/tree/main/Depo/Malware/BlackCat) | [PHP Stager](https://github.com/mel4mi/Huntress2023-Writeups/tree/main/Depo/Malware/Php_Stager) | [Snake Oil](https://github.com/mel4mi/Huntress2023-Writeups/tree/main/Depo/Malware/Snake_Oil) | [RAT](https://github.com/mel4mi/Huntress2023-Writeups/tree/main/Depo/Malware/Rat) | [Opendir](https://github.com/mel4mi/Huntress2023-Writeups/tree/main/Depo/Malware/Opendir) | [Speakfriend](https://github.com/mel4mi/Huntress2023-Writeups/tree/main/Depo/Malware/SpeakFriends) | [Hot Off The Press](https://github.com/mel4mi/Huntress2023-Writeups/tree/main/Depo/Malware/Hot_of_the_Press) | [Thumb Drive](https://github.com/mel4mi/Huntress2023-Writeups/tree/main/Depo/Malware/Thumb_Drive) | [Zerion](https://github.com/mel4mi/Huntress2023-Writeups/tree/main/Depo/Malware/Zerion) |
 
-### [CTF Yarışması 2](/2021/CTF2/README.md)
-- Bu yarışmada "Sorun Adı 1" sorusunun çözümü.
-- Bu yarışmada "Sorun Adı 2" sorusunun çözümü.
+## Misc
 
-## Forensic
+[M Three Sixty Five #]() | [MFAtigue #]() | [PRESS PLAY ON TAPE](https://github.com/mel4mi/Huntress2023-Writeups/tree/main/Depo/Miscellaneous/Press_Play_On_Tape) | [Welcome to the Park](https://github.com/mel4mi/Huntress2023-Writeups/tree/main/Depo/Miscellaneous/Welcome_To_The_Park) | [Discord Snowflake Scramble](https://github.com/mel4mi/Huntress2023-Writeups/tree/main/Depo/Miscellaneous/Discord_Snowflake_Scramble) | [I Wont Let You Down](https://github.com/mel4mi/Huntress2023-Writeups/tree/main/Depo/Miscellaneous/I_Want_Let_You_Down) | [Who is Real?]() | [Operation Eradication #]() | [Rock, Paper, Psychic](https://github.com/mel4mi/Huntress2023-Writeups/tree/main/Depo/Miscellaneous/Rock_Paper_Psychic) | [Indirect Payload](https://github.com/mel4mi/Huntress2023-Writeups/tree/main/Depo/Miscellaneous/Indirect_Payload) | [Babel](https://github.com/mel4mi/Huntress2023-Writeups/tree/main/Depo/Miscellaneous/Babel) |
 
-### [CTF Yarışması 1](/2021/CTF1/README.md)
-- Bu yarışmada "Sorun Adı 1" sorusunun çözümü.
-- Bu yarışmada "Sorun Adı 2" sorusunun çözümü.
-
-### [CTF Yarışması 2](/2021/CTF2/README.md)
-- Bu yarışmada "Sorun Adı 1" sorusunun çözümü.
-- Bu yarışmada "Sorun Adı 2" sorusunun çözümü.
+## Osint
+[Under The Bridge](https://github.com/mel4mi/Huntress2023-Writeups/tree/main/Depo/OSINT/Under_The_Bridge) | [Operation Not Found](https://github.com/mel4mi/Huntress2023-Writeups/tree/main/Depo/OSINT/Operation_Not_Found) | [Where am I?](https://github.com/mel4mi/Huntress2023-Writeups/tree/main/Depo/OSINT/Where_Am_I) |
 
 
----
+## Steganography
+[Land Before Time](https://github.com/mel4mi/Huntress2023-Writeups/tree/main/Depo/Steganography/Land_Before_Time) 
+
 
 ## Diğer Ressourcelar
 
-- [CTF Araçları ve Kaynaklar](/resources.md): CTF'lerde kullanabileceğiniz araçlar ve kaynaklar hakkında bilgi.
-
-Bu menü tasarımı, CTF yarışmalarınızın organize edilmesine ve kolayca erişilebilir olmasına yardımcı olacaktır. Her yarışmanın kendi alt dizininde ayrı bir README.md dosyası bulunmalıdır. Bu sayede her yarışmanın açıklamalarını, çözümlerini ve detaylarını ayrı ayrı sunabilirsiniz.
+- [Huntress CTF 23](https://huntress.ctf.games/challenges): CTF Yarışmasının orjinal linki. Sizde siteye giriş yapıp soruları çözebilirsiniz.
