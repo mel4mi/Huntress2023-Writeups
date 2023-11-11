@@ -1,7 +1,7 @@
 # Query Code
 ![Soru](https://github.com/mel4mi/Huntress2023-Writeups/blob/main/Depo/Warmups/Query_code/Query_Code.png)
 ## Soru İçeriği
-
+[Query Code](https://github.com/mel4mi/Huntress2023-Writeups/blob/main/Depo/Warmups/Query_code/query_code)
 
 ## Çözüm
 Soruda verilen dosyanın türünü öğrenmek için "file" komutu kullanıyorum.
