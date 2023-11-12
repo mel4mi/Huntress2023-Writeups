@@ -8,7 +8,7 @@ Bu soruya özel olarak nmap kullanmamıza izin verilmiş. Bende hızlı bir şek
 
 ![](https://github.com/mel4mi/Huntress2023-Writeups/blob/main/Depo/Miscellaneous/I_Want_Let_You_Down/Screenshot_2.png)
 
-Sonuca baktığımız zaman 22, 25, 80, 8888 portlarının açık olduğunu görüyoruz. En ilgi çeken 8888 portu, hem hacker camiasının en sevdidği şarkısı [never gonna give you up](https://www.youtube.com/watch?v=dQw4w9WgXcQ&pp=ygUXbmV2ZXIgZ29ubmEgZ2l2ZSB5b3UgdXA%3D)'nın sözlerini görüyoruz. Hemen basit bir şekilde netcat bağlantısı atıp sonucu bekliyorum.
+Sonuca baktığımız zaman 22, 25, 80, 8888 portlarının açık olduğunu görüyoruz. En ilgi çeken 8888 portu, hacker camiasının en sevdidği şarkısı [never gonna give you up](https://www.youtube.com/watch?v=dQw4w9WgXcQ&pp=ygUXbmV2ZXIgZ29ubmEgZ2l2ZSB5b3UgdXA%3D)'nın sözlerini görüyoruz. Hemen basit bir şekilde netcat bağlantısı atıp sonucu bekliyorum.
 ```
 nc <ip> 8888
 ```
